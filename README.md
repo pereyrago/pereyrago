@@ -17,11 +17,12 @@
 
 ---
 
-#### 📫 ¿Donde contactarme?: **[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
+#### 📫 ¿Donde contactarme?:
 
-<hr/>
+**[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
 
-<h3 align="center"> Connect with me : <a href="https://www.linkedin.com/in/gabi-pereyra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<a href="https://www.linkedin.com/in/gabi-pereyra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a>
+
 <hr/>
 
 <h3 align="center">Tecnologías y herramientas que manejo:</h3>
