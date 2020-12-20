@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Gabriel Pereyra</h3>
+<h3 align="center">Hi 😄, I'm Gabriel Pereyra</h3>
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
 <hr/>
@@ -8,6 +8,10 @@
 <div align="center">
 
 🚨 Last project: [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
+
+<h4 align="left" > Para ver las funcionalidades de admin, loguearse como :</h4>
+<h4 align="left">email: admin@admin.com</h4> 
+<h4 align="left">psw:Admin123</h4>
 
 📫 How to reach me: **pereyrago@gmail.com**
 
