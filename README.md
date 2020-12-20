@@ -7,15 +7,19 @@
 <hr/>
 <div align="center">
 
-🚨 Last project: [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
+#### 🚨 Ultimo projecto [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
 
-<h4 align="left" > Para ver las funcionalidades de admin, loguearse como :</h4>
-<h4 align="left">email: admin@admin.com</h4> 
-<h4 align="left">psw:Admin123</h4>
+    Para ver las funcionalidades de admin, loguearse como :
 
-📫 How to reach me: **pereyrago@gmail.com**
+    email: admin@admin.com
 
-</div>
+    password: Admin123
+
+---
+
+---
+
+#### 📫 ¿Donde contactarme?: **[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
 
 <hr/>
 
