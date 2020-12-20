@@ -7,7 +7,7 @@
 <hr/>
 <div align="center">
 
-🔭 And the previous project: [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
+🚨 Last project: [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
 
 📫 How to reach me: **pereyrago@gmail.com**
 
