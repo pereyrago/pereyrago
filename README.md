@@ -1,8 +1,8 @@
-<h3 align="center">Hi 😄, I'm Gabriel Pereyra</h3>
-<h3 align="center">A passionate Fullstack developer from Argentina</h3>
+<h3 align="center">Hola 😄, soy Gabriel Pereyra</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
 <hr/>
-<h3 align="center">My trophies :</h3>
+<h3 align="center">Mis trofeos 🏆 :</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="pereyrago" /></p>
 <hr/>
 <div align="center">
@@ -17,8 +17,6 @@
 
 ---
 
----
-
 #### 📫 ¿Donde contactarme?: **[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
 
 <hr/>
@@ -26,7 +24,7 @@
 <h3 align="center"> Connect with me : <a href="https://www.linkedin.com/in/gabi-pereyra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
 <hr/>
 
-<h3 align="center">Languages and Tools :</h3>
+<h3 align="center">Tecnologías y herramientas que manejo:</h3>
 <p align="center"> 
   <a href="https://expo.io/" target="_blank"> <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="expo" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
