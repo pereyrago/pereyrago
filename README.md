@@ -9,6 +9,10 @@
 
 #### 🚨 Ultimo projecto [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
 
+[Enlace al repositorio](https://github.com/pereyrago/Bomba-e-commerce "Enlace al repositorio")
+
+[![Bomba home](https://i.imgur.com/vfm7y8u.png "Bomba home")](https://i.imgur.com/vfm7y8u.png "Bomba home")
+
     Para ver las funcionalidades de admin, loguearse como :
 
     email: admin@admin.com
