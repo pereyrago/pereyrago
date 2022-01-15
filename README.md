@@ -1,13 +1,13 @@
-<h3 align="center">Hola 😄, soy Gabriel Pereyra</h3>
-<h3 align="center">Fullstack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pereyrago&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
+<h3 align="center">Hi, i'm Gabriel Pereyra</h3>
+<h3 align="center">Frontend Developer</h3>
+
 <hr/>
-<h3 align="center">Mis trofeos 🏆 :</h3>
+<h3 align="center">🏆</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pereyrago&row=1&column=3" alt="pereyrago" /></p>
 <hr/>
 <div align="center">
 
-#### 📫 ¿Donde contactarme?:
+#### 📫
 
 **[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
 
@@ -15,7 +15,6 @@
 
 <hr/>
 
-<h3 align="center">Tecnologías y herramientas que manejo:</h3>
 <p align="center"> 
   <a href="https://expo.io/" target="_blank"> <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="expo" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fvoodootikigod%2Flogo.js%2Fmaster%2Fjs.png&f=1&nofb=1" alt="javascript" width="40" height="40"/> </a>
