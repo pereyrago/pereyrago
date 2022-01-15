@@ -1,9 +1,10 @@
 <h3 align="center">Hi, i'm Gabriel Pereyra</h3>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
+<p align='center'>Currently working as frontend developer at https://www.linkedin.com/school/henryok/</p>
 
 <hr/>
 <h3 align="center">🏆</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pereyrago&row=1&column=3" alt="pereyrago" /></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pereyrago&row=1&column=2" alt="pereyrago" /></p>
 <hr/>
 <div align="center">
 
