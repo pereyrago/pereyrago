@@ -1,25 +1,11 @@
 <h3 align="center">Hola 😄, soy Gabriel Pereyra</h3>
 <h3 align="center">Fullstack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pereyrago&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
 <hr/>
 <h3 align="center">Mis trofeos 🏆 :</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="pereyrago" /></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pereyrago&row=1&column=3" alt="pereyrago" /></p>
 <hr/>
 <div align="center">
-
-#### 🚨 Ultimo projecto [**Bomba e-commerce**](https://bomba-ecommerce.web.app/)
-
-[Enlace al repositorio](https://github.com/pereyrago/Bomba-e-commerce "Enlace al repositorio")
-
-[![Bomba home](https://i.imgur.com/vfm7y8u.png "Bomba home")](https://i.imgur.com/vfm7y8u.png "Bomba home")
-
-    Para ver las funcionalidades de admin, loguearse como :
-
-    email: admin@admin.com
-
-    password: Admin123
-
----
 
 #### 📫 ¿Donde contactarme?:
 
